@@ -22,7 +22,7 @@ Total Columns: 94
   - Collaborate with **NGOs** to support tobacco cessation.  
 
 ## 🛠️ Tech Stack & Tools  
-- **Languages**: Python 🐍  
+- **Languages**: Python 
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost  
 - **Visualization**: Matplotlib, Seaborn  
 - **Modeling**: Machine Learning (Random Forest, XGBoost)  
